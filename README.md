@@ -1,9 +1,5 @@
 # Introduction to the IVT Faculty: A Journey by Helga Ingimundardóttir
 
-Hello there! I'm Helga Ingimundardóttir, and this repository contains the LaTeX source files, figures, and associated resources for my introduction to the wonderful Industrial Engineering department at the University of Iceland. I've used the `hi-beamer` template, which I find gives presentations that extra touch of professionalism.
-
-# Introduction to the Industrial Engineering Faculty: A Journey by Helga Ingimundardóttir
-
 Hello there! I'm Helga Ingimundardóttir. This repository holds my introductory presentation to the incredible Industrial Engineering faculty at the University of Iceland. For this presentation, I used the `hi-beamer` template I created for the university.
 
 ## What's Inside:
@@ -18,8 +14,8 @@ Hello there! I'm Helga Ingimundardóttir. This repository holds my introductory 
 To bring my presentation to life:
 
 1. Navigate to the directory.
-2. Use `pdflatex main.tex`.
-3. For any citations, go for `bibtex main.aux`, then a couple more spins with `pdflatex main.tex`.
+2. Use `xelatex main.tex`.
+3. For any citations, go for `bibtex main.aux`, then a couple more spins with `xelatex main.tex`.
 
 ## A Glimpse at the Presentation:
 
